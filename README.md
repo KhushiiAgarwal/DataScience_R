@@ -13,7 +13,7 @@
 - Install both simultaneously & ensure version compatability. If either is already downloaded, upgrade it to latest version.
   
 ### Execution
-- Run the given code by downloading the file and ensure resp csv file is also in same directory
+- Run the given code by downloading the file and ensure respective csv file is also in same directory
 - Set the directory using setwd command.
 - Install the required packages
 
