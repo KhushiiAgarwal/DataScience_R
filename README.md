@@ -15,6 +15,12 @@
 ### Execution
 - Run the given code by downloading the file and ensure respective csv file is also in same directory
 - Set the directory using setwd command.
-- Install the required packages
+- Install the required packages:
+    - Ensure to have stable internet
+    - In the R studio console, copy & paste the command
+      ```
+      install.packages("ggplot2")
+
+      ```
 
 If you find my repository helpful, please star⭐ it 🌟.
