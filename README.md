@@ -22,5 +22,18 @@
       install.packages("ggplot2")
 
       ```
+      ```
+      install.packages("tidyr")
 
+      ```
+      ```
+      install.packages("colorspace")
+
+      ```
+      ```
+      install.packages("caret")
+
+      ```
+    
+ ######     
 If you find my repository helpful, please star⭐ it 🌟.
