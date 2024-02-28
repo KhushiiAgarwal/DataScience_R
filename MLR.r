@@ -1,4 +1,4 @@
-setwd("D:/Practical/VIT/DS R")
+setwd("D:/R")
 t1=read.csv("Toy_sales_csv.csv")
 
 #MLR----
