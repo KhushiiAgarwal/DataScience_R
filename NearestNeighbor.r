@@ -1,4 +1,4 @@
-setwd("D:/Practical/VIT/DS R")
+setwd("D:/ R")
 f1=read.csv("knn1_csv.csv")
 ed=sqrt((f1$x-3)**2+(f1$y-2)**2)
 f1=cbind(f1,ed)
