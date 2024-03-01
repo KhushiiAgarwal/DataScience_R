@@ -23,6 +23,19 @@
 
       ```
       ```
+      install.packages("class")
+
+      ```
+      ```
+      install.packages("plotrix")
+
+      ```
+      ```
+      install.packages("caret")
+
+      ```
+     
+      ```
       install.packages("tidyr")
 
       ```
@@ -30,10 +43,5 @@
       install.packages("colorspace")
 
       ```
-      ```
-      install.packages("caret")
-
-      ```
-    
  ######     
 If you find my repository helpful, please star⭐ it 🌟.
