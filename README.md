@@ -43,5 +43,4 @@
       install.packages("colorspace")
 
       ```
- ######     
-If you find my repository helpful, please star⭐ it 🌟.
+ ######    If you find my repository helpful, please star⭐ it 🌟.
